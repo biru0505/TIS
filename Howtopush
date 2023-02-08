@@ -2,7 +2,7 @@
 git status
 2.넘길 것들 지정해주기
 git add 보낼파일명 // 혹은 git add . :전체추가하기;
-3. 저장이름 붙여주기
+3. 설명 붙여주기(안해줘도 상관없음)
 git commit -m "몇번째? commit"
 4. 푸시해주기
 git push origin main
