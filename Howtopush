@@ -1,0 +1,4 @@
+1. 저장이름 붙여주기
+git commit -m "몇번째? commit"
+2. 푸시해주기
+git push origin main
